@@ -16,4 +16,22 @@ git config user.email
 - Check the status of change in files /folders
 git status
 
-- Add files to
+- Add all untracked files to the staging area
+git add .
+
+- Commit files from staging area
+git commit -m "description of your change"
+
+Legends
+U - untracked
+A - added
+M - modified
+D - deleted
+R - renamed
+
+- Show commit history
+git log
+
+- Show commit hitory (summarized)
+git log --oneline
+
