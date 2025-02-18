@@ -35,3 +35,7 @@ git log
 - Show commit hitory (summarized)
 git log --oneline
 
+- Clear terminal commands
+Clear
+
+
