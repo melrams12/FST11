@@ -35,3 +35,12 @@ git log
 - Show commit hitory (summarized)
 git log --oneline
 
+- Create a branch
+git branch "branch name"
+
+- List all branches
+git branch -a 
+
+- Switch to a different branch
+git switch  "branch name" Note: may not work for older versions
+git checkout "branch name"
