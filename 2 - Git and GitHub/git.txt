@@ -69,3 +69,5 @@ git push -u origin main
 - Confirm connection to remote repository
 git remote -v
 
+- Push local repository to remote once establish connection
+git push
